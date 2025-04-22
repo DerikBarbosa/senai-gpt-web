@@ -12,5 +12,10 @@ voce sera levado para o site e de la fara o download de uma versao em especifico
 
 ![Captura de tela 2025-04-17 192755](https://github.com/user-attachments/assets/fcaea4f2-d382-4031-89ff-163d6f877572
 
-ao fazer o download abra o cmd e veja em qual versão voce esta 
+ao fazer o download abra o cmd e veja em qual versão voce esta usando o codigo 
+
+node --version
+
+![Captura de tela 2025-04-17 192854](https://github.com/user-attachments/assets/eee293e5-a4b4-4fad-bc6f-d5d60504eaf1)
+
 
