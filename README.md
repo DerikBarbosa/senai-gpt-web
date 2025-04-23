@@ -18,4 +18,9 @@ node --version
 
 ![Captura de tela 2025-04-17 192854](https://github.com/user-attachments/assets/eee293e5-a4b4-4fad-bc6f-d5d60504eaf1)
 
+3. ao saber sua versão agora voce tera que repassar o react para o vs code com isso voce usara o comando
+
+-- --template react 
+
+![Captura de tela 2025-04-17 193319](https://github.com/user-attachments/assets/9b985b64-c57a-4402-96ab-d485b8fc757b)
 
